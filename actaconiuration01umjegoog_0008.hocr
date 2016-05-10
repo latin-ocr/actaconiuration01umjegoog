@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./actaconiuration01umjegoog_0008.png"; bbox 0 0 3308 5252; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 96 1012 1482 1118">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 96 1012 1482 1176">
+     <span class='ocr_line' id='line_1_1' title="bbox 96 1012 1482 1118; baseline 0.002 -4"><span class='ocrx_word' id='word_1_1' title='bbox 96 1015 246 1114; x_wconf 82' lang='lat' dir='ltr'><strong>BANI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 278 1013 441 1114; x_wconf 78' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_3' title='bbox 460 1013 511 1114; x_wconf 73' lang='lat' dir='ltr'><strong>&#39;A</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 542 1013 725 1116; x_wconf 84' lang='lat' dir='ltr'>ZRINIO</span> <span class='ocrx_word' id='word_1_5' title='bbox 758 1012 828 1112; x_wconf 79' lang='grc' dir='ltr'><strong>ΕΤ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 860 1013 982 1114; x_wconf 83' lang='grc' dir='ltr'>ΟΟΜ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1015 1013 1093 1113; x_wconf 79' lang='lat' dir='ltr'><strong>FB.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1125 1014 1482 1118; x_wconf 72' lang='lat' dir='ltr'><strong>FRANGEPANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 100 1721 1479 2640">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 100 1721 1479 2640">
+     <span class='ocr_line' id='line_1_2' title="bbox 265 1721 1076 2094; baseline 0 -120"><span class='ocrx_word' id='word_1_9' title='bbox 265 1721 284 1928; x_wconf 86' lang='lat' dir='ltr'>i</span> <span class='ocrx_word' id='word_1_10' title='bbox 508 1761 1076 2094; x_wconf 50' lang='lat' dir='ltr'><strong>mmm}</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 100 2086 1479 2640; baseline 0.001 -142"><span class='ocrx_word' id='word_1_11' title='bbox 100 2265 262 2640; x_wconf 53' lang='grc' dir='ltr'><strong>ΒΑΜ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 286 2266 338 2498; x_wconf 76' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 363 2265 689 2504; x_wconf 65' lang='lat' dir='ltr'><strong>zfflNsKofiA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 713 2086 952 2500; x_wconf 22' lang='lat' dir='ltr'><strong>{1¹14}sz</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 981 2265 1069 2498; x_wconf 69' lang='lat' dir='ltr'><strong>FB.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1095 2265 1479 2508; x_wconf 56' lang='lat' dir='ltr'><strong>mmmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1658 5252">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1658 5252">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1658 5252; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1658 5252; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
